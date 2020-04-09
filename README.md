@@ -1,2 +1,2 @@
 # Coursera-ML-Project
-All classification Model
+All classification Models
